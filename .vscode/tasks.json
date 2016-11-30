@@ -6,7 +6,7 @@
         "command": "build.bat"
     },
     "osx": {
-        "command": "gcc"
+        "command": "g++"
     },
     "isShellCommand": true,
     "args": ["${file}"],
