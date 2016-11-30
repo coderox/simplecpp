@@ -8,6 +8,7 @@
         "**/*.winmd": true,
         "**/*.db": true,
         "**/*.opendb": true,
+        "**/*.out": true,
 
         // directories
         "**/x64": true,

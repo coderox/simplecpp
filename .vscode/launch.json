@@ -11,6 +11,20 @@
             "cwd": "${workspaceRoot}",
             "environment": [],
             "externalConsole": false
+        },
+        {
+            "name": "C++ Launch (GDB)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}/a.out",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceRoot}",
+            "environment": [],
+            "externalConsole": false,
+            "osx": {
+                "MIMode": "lldb"
+            }
         }
     ]
 }
