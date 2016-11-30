@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+        // files
+        "**/*.exe": true,
+        "**/*.obj": true,
+        "**/*.pdb": true,
+        "**/*.winmd": true,
+        "**/*.db": true,
+        "**/*.opendb": true,
+
+        // directories
+        "**/x64": true,
+        "**/x86": true,
+        "**/Debug": true,
+        "**/ipch": true,
+        "**/.vs": true
+    }    
+}
