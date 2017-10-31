@@ -7,7 +7,7 @@
     },
     "osx": {
         "command": "g++"
-    },
+	},
     "isShellCommand": true,
     "args": ["${file}","${fileBasenameNoExtension}", "${workspaceRoot}"],
     "showOutput": "always"
