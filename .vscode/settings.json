@@ -9,6 +9,7 @@
         "**/*.db": true,
         "**/*.opendb": true,
         "**/*.out": true,
+        "**/*.ilk": true,
 
         // directories
         "**/x64": true,

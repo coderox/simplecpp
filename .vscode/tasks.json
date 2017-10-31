@@ -9,6 +9,6 @@
         "command": "g++"
     },
     "isShellCommand": true,
-    "args": ["${file}"],
+    "args": ["${file}","${fileBasenameNoExtension}", "${workspaceRoot}"],
     "showOutput": "always"
 }
